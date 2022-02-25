@@ -1,0 +1,69 @@
+.trafficlight {
+	background:#333;
+	width: 150px;
+	height: 440px;
+	border-radius: 10px;
+	font-size: 70px;
+	text-align:center;
+	padding: 1px 0;
+	border: 6px solid #000;
+	margin: auto;
+}
+#red {
+    background-color: rgb(255, 0, 0);
+	background:#666;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: 15px;
+	margin-top: 20px;
+	line-height: 120px;
+	-webkit-transition: background-color 0.5s ease-out;
+	-o-transition: background-color 0.5s ease-out;
+	transition: background-color 0.5s ease-out;
+}
+
+#yellow {
+    background:#666;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: 15px;
+	margin-top: 20px;
+	line-height: 120px;
+	-webkit-transition: background-color 0.5s ease-out;
+	-o-transition: background-color 0.5s ease-out;
+	transition: background-color 0.5s ease-out;
+}
+#green { 
+    background:#666;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: 15px;
+	margin-top: 20px;
+	line-height: 120px;
+	-webkit-transition: background-color 0.5s ease-out;
+	-o-transition: background-color 0.5s ease-out;
+	transition: background-color 0.5s ease-out;
+}
+
+.red {
+	background-color: rgb(255, 0, 0);
+}
+.yellow {
+	background-color: #ff0;
+}
+.green {
+	background-color: #0f0;
+}
+
+button {
+	margin-top: 50px;
+	padding: 20px 100px;
+	font-size: 48px;
+	margin-left: 39%;
+}
+/* body {
+	background-image: url(./image/zoe-DKMAAquUH0c-unsplash.jpg);
+} */

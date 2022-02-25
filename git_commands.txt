@@ -1,0 +1,11 @@
+CREATE
+1) git init
+2) git add .
+3) git commit -m "first push"
+4) git remote add origin <link>
+5) git push origin master
+
+UPDATE
+1) git add .
+2) git commit -m "first push"
+3) git push origin master
